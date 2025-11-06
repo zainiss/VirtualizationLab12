@@ -1,0 +1,5 @@
+# Run tests
+- name: Run tests
+  run: |
+    echo "Running tests..."
+    python -m unittest discover
